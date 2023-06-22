@@ -71,5 +71,11 @@ FROM Student
 FULL JOIN StudentCourse 
 ON StudentCourse.ROLL_NO = Student.ROLL_NO;
 ```
+
+## Output:
+
+![image](https://github.com/SaiDarshan2003/Ex8periment/assets/94692595/21ba328d-12eb-4734-b593-e385113eb394)
+
+
 ## Result:
 Therefore we have successfully implemented the keyword-Case ,Cross,Join ,full outer join.
